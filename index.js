@@ -28,15 +28,14 @@
 
 // function unlilarSoni(str) {
 //     let counter = 0;
-//     let kichikSatr = satr.toLowerCase();
-//     for (let chart of str) {
-//       if (kichikSatr[i] == 'a' || kichikSatr[i] == 'i' || kichikSatr[i] == 'u' || kichikSatr[i] == 'o' || kichikSatr[i] == 'e') {
+//     let unlilar = ["a", "e", "i", "u", "o"]
+//    for (let chart of str) {
+//       if (unlilar.includes(chart)) {
 //         counter++;
 //       }
 //     }
 //     return counter;
 //   }
-
 
 // 4-masala
 
